@@ -1,4 +1,4 @@
 # employeemanager
- Application de gestion d'employé(s), conçue avec le framwork Spring Boot 
+ API de gestion d'employé(s), conçue avec le framwork Spring Boot 
 
-En construction ..
+<img src="https://github.com/alban-okoby/employeemanager/blob/main/employeemanager.PNG" />
